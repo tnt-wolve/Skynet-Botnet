@@ -92,7 +92,7 @@ Client Generator (Build Your Own Botnet)
 
 # SERVER
 
-## Console-based command & control server with a streamlined user-interface for controlling clients
+  Console-based command & control server with a streamlined user-interface for controlling clients
   with reverse TCP shells which provide direct terminal access to the client host machines, as well
   as handling session authentication & management, serving up any scripts/modules/packages requested
   by clients to remotely import them, issuing tasks assigned by the user to any/all clients, handling
