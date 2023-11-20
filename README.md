@@ -13,7 +13,7 @@ Client Generator (Build Your Own Botnet)
                 [--encrypt] [--obfuscate] [--compress] [--freeze]
                 host port [module [module ...]]
 ##
-# 💥 Generator (Build Your Own Botnet)
+# 🏴‍☠️ Generator (Build Your Own Botnet)
 ##
 ## 💥 Positional arguments:
 ##
@@ -39,7 +39,7 @@ Client Generator (Build Your Own Botnet)
 ### ⚡️   --freeze      
     compile client into a standalone executable for the current host platform
 ##
-# 💥 Generate clients with the following features :
+## 🏴‍☠️ Generate clients with the following features :
 
 ### ⚡️ - Zero Dependencies
         stager runs with just the python standard library
