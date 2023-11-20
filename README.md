@@ -1,8 +1,9 @@
-# SKYNET BOTNET
-
+# 🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️
+# 🌐 SKYNET BOTNET 🤖
+# 🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️
 # ![](https://repository-images.githubusercontent.com/721243848/8ef413f2-5116-47de-89fb-0cc3cea94776)
 
-## Build Your Own Botnet Project Build For People Who Wanna Hijack Peoples Computers And Control Them With Over 300 Features!
+## Build your own botnet project : build for people who wanna hijack peoples computers and control them with over 300 features
 
 # CLIENT
 
@@ -20,7 +21,7 @@ Client Generator (Build Your Own Botnet)
     port            server port number
     module          module(s) to remotely import at run-time
 
-## optional arguments:
+## optional arguments :
 ###    -h, --help      
     show this help message and exit
 ###    -v, --version   
@@ -38,7 +39,7 @@ Client Generator (Build Your Own Botnet)
 ###    --freeze      
     compile client into a standalone executable for the current host platform
 
-# Generate clients with the following features:
+# Generate clients with the following features :
 
 ### - Zero Dependencies
         stager runs with just the python standard library
