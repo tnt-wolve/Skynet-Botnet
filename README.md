@@ -1,6 +1,5 @@
-# 🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️
 # 🌐 SKYNET BOTNET 🤖
-# 🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️🏴‍☠️
+
 # ![](https://repository-images.githubusercontent.com/721243848/8ef413f2-5116-47de-89fb-0cc3cea94776)
 
 ## Build your own botnet project : build for people who wanna hijack peoples computers and control them with over 300 features
