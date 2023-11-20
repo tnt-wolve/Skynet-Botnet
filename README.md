@@ -3,7 +3,7 @@
 # ![](https://repository-images.githubusercontent.com/721243848/8ef413f2-5116-47de-89fb-0cc3cea94776)
 
 ## Build your own botnet project : build for people who wanna hijack peoples computers and control them with over 300 features
-
+#
 # 🏴‍☠️ CLIENT
 
 Client Generator (Build Your Own Botnet)
@@ -12,14 +12,15 @@ Client Generator (Build Your Own Botnet)
                 [-h] [-v] [--name NAME] [--icon ICON] [--pastebin API]
                 [--encrypt] [--obfuscate] [--compress] [--freeze]
                 host port [module [module ...]]
-
-## 💥 Generator (Build Your Own Botnet)
-
+##
+# 💥 Generator (Build Your Own Botnet)
+##
 ## 💥 Positional arguments:
+##
    ⚡️ host            server IP address
    ⚡️ port            server port number
    ⚡️ module          module(s) to remotely import at run-time
-
+##
 ## 💥 Optional arguments :
 ### ⚡️   -h, --help      
     show this help message and exit
@@ -37,7 +38,7 @@ Client Generator (Build Your Own Botnet)
     zip-compress into a self-executing python script
 ### ⚡️   --freeze      
     compile client into a standalone executable for the current host platform
-
+##
 # 💥 Generate clients with the following features :
 
 ### ⚡️ - Zero Dependencies
@@ -89,16 +90,15 @@ Client Generator (Build Your Own Botnet)
 ### ⚡️ - Avoid Detection
         client will abort execution if a virtual machine
         or sandbox is detected
-
+#
 # 🏴‍☠️ SERVER
-
   Console-based command & control server with a streamlined user-interface for controlling clients
   with reverse TCP shells which provide direct terminal access to the client host machines, as well
   as handling session authentication & management, serving up any scripts/modules/packages requested
   by clients to remotely import them, issuing tasks assigned by the user to any/all clients, handling
   incoming completed tasks from clients
-
-# 💥 COMMANDS
+##
+## 💥 COMMANDS
 
   ### ⚡️ set 
                 'method': self.set,
